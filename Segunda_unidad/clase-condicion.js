@@ -5,12 +5,7 @@ if (nombre = Cristian ) {
 
     console.log(" Hola cristian");
 
-} else if (nombre = 70) {
-
-    
-    console.log("Hola cristian");
-
-} else {
+} else if (nombre == Cristian) {
 
     console.log("Usuario desconocido");
 }
